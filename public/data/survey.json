@@ -1,0 +1,16 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "title": "What is your name?",
+        "type": "input",
+        "validation": { "maxLength": 50 }
+      },
+      {
+        "id": 2,
+        "title": "How satisfied are you with our service?",
+        "type": "dropdown",
+        "options": ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      }
+    ]
+  }
